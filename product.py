@@ -3,7 +3,7 @@ def product_details(id,name,quantity,price):
            f"product ID:{id}\n"
            f"product Name:{name}\n"
            f"product Quantity:{quantity}\n"
-           f"product Price:{price}\n"
+           f"product Price:{price}"
            )
     return result
 if __name__=="__main__":
